@@ -1,0 +1,97 @@
+[
+    {
+        "recipe_image": "grilled_salmon.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+        "short_description": "A delicious and healthy seafood dish perfect for dinner parties or special occasions.",
+        "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "4 tbsp butter",
+            "2 cloves garlic",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": "25 min",
+        "calories": "320 calories"
+        
+    },
+    {
+        "recipe_image": "caprese_salad.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Caprese Salad",
+        "short_description": "A classic Italian salad featuring fresh tomatoes, mozzarella cheese, and basil leaves.",
+        "ingredients": [
+            "4 tomatoes",
+            "200g fresh mozzarella cheese",
+            "1 cup fresh basil leaves",
+            "2 tbsp balsamic glaze"
+        ],
+        "preparing_time": "15 min",
+        "calories": "180 calories"
+        
+    },
+    {
+        "recipe_image": "vegetable_stir_fry.jpg",
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A quick and healthy stir-fry packed with colorful vegetables and flavorful sauce.",
+        "ingredients": [
+            "2 cups mixed vegetables (bell peppers, broccoli, carrots, snow peas)",
+            "200g firm tofu",
+            "3 tbsp soy sauce",
+            "2 cloves garlic",
+            "1 tbsp sesame oil"
+        ],
+        "preparing_time": "20 min",
+        "calories": "250 calories"
+        
+    },
+    {
+        "recipe_image": "chicken_parmesan.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Chicken Parmesan",
+        "short_description": "A comforting Italian-American dish featuring breaded chicken breasts topped with marinara sauce and melted cheese.",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup breadcrumbs",
+            "1 cup marinara sauce",
+            "1 cup shredded mozzarella cheese",
+            "1/4 cup grated Parmesan cheese"
+        ],
+        "preparing_time": "40 min",
+        "calories": "380 calories"
+        
+    },
+    {
+        "recipe_image": "mango_salsa.jpg",
+        "recipe_id": 5,
+        "recipe_name": "Mango Salsa",
+        "short_description": "A refreshing and fruity salsa perfect for topping grilled fish or chicken.",
+        "ingredients": [
+            "2 ripe mangoes",
+            "1 red bell pepper",
+            "1/2 red onion",
+            "1 jalapeno pepper",
+            "Juice of 1 lime"
+        ],
+        "preparing_time": "10 min",
+        "calories": "120 calories"
+        
+    },
+    {
+        "recipe_image": "quinoa_salad.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Quinoa Salad with Roasted Vegetables",
+        "short_description": "A nutritious and filling salad featuring quinoa, roasted vegetables, and a tangy vinaigrette.",
+        "ingredients": [
+            "1 cup quinoa",
+            "2 cups mixed vegetables (zucchini, bell peppers, cherry tomatoes)",
+            "2 tbsp olive oil",
+            "2 tbsp balsamic vinegar",
+            "1/4 cup crumbled feta cheese"
+        ],
+        "preparing_time": "30 min",
+        "calories": "280 calories"
+       
+    }
+]
