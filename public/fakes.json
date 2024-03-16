@@ -1,6 +1,6 @@
 [
     {
-        "recipe_image": "grilled_salmon.jpg",
+        "recipe_image": "https://i.ibb.co/CWVxnBN/Blackened-Salmon-5.jpg",
         "recipe_id": 1,
         "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
         "short_description": "A delicious and healthy seafood dish perfect for dinner parties or special occasions.",
@@ -16,7 +16,7 @@
         
     },
     {
-        "recipe_image": "caprese_salad.jpg",
+        "recipe_image": "https://i.ibb.co/zsFq033/Burrata-Saladwith-Summer-Berries-Pistachios-9.jpg",
         "recipe_id": 2,
         "recipe_name": "Caprese Salad",
         "short_description": "A classic Italian salad featuring fresh tomatoes, mozzarella cheese, and basil leaves.",
@@ -31,7 +31,7 @@
         
     },
     {
-        "recipe_image": "vegetable_stir_fry.jpg",
+        "recipe_image": "https://i.ibb.co/sVXbdVt/Vegetable-Stir-Fry-9.jpg",
         "recipe_id": 3,
         "recipe_name": "Vegetable Stir-Fry",
         "short_description": "A quick and healthy stir-fry packed with colorful vegetables and flavorful sauce.",
@@ -47,7 +47,7 @@
         
     },
     {
-        "recipe_image": "chicken_parmesan.jpg",
+        "recipe_image": "https://i.ibb.co/StmqbpL/Chicken-Meatballswith-Polentaand-Marinara-12.jpg",
         "recipe_id": 4,
         "recipe_name": "Chicken Parmesan",
         "short_description": "A comforting Italian-American dish featuring breaded chicken breasts topped with marinara sauce and melted cheese.",
@@ -63,7 +63,7 @@
         
     },
     {
-        "recipe_image": "mango_salsa.jpg",
+        "recipe_image": "https://i.ibb.co/3Mk5rXq/Mango-Salsa-Shot3-76.jpg",
         "recipe_id": 5,
         "recipe_name": "Mango Salsa",
         "short_description": "A refreshing and fruity salsa perfect for topping grilled fish or chicken.",
@@ -79,7 +79,7 @@
         
     },
     {
-        "recipe_image": "quinoa_salad.jpg",
+        "recipe_image": "https://i.ibb.co/vd7kV56/curried-cauliflower-quinoa-salad-10.jpg",
         "recipe_id": 6,
         "recipe_name": "Quinoa Salad with Roasted Vegetables",
         "short_description": "A nutritious and filling salad featuring quinoa, roasted vegetables, and a tangy vinaigrette.",
