@@ -6,6 +6,7 @@ import Blogs from './components/Blogs/Blogs'
 import Title from './components/Blogs/Title'
 import Counts from './components/Counts/Counts'
 import Navbar from './components/Navbar/Navbar'
+import Count from './components/Count/Count'
 
 function App() {
 const [counts,setCounts] = useState([]);
@@ -21,7 +22,10 @@ const handleAddToCount = blog =>{
       <Title></Title>
       <div className='flex'>
         <Blogs handleAddToCount={handleAddToCount}></Blogs>
-        <Counts></Counts>
+        <div>
+        <Counts counts={counts}></Counts>
+        <Count></Count>
+        </div>
       </div>
         
 
