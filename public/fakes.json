@@ -8,8 +8,7 @@
             "4 salmon fillets",
             "2 lemons",
             "4 tbsp butter",
-            "2 cloves garlic",
-            "Salt and pepper to taste"
+            "2 cloves garlic"
         ],
         "preparing_time": "25 min",
         "calories": "320 calories"
@@ -36,7 +35,7 @@
         "recipe_name": "Vegetable Stir-Fry",
         "short_description": "A quick and healthy stir-fry packed with colorful vegetables and flavorful sauce.",
         "ingredients": [
-            "2 cups mixed vegetables (bell peppers, broccoli, carrots, snow peas)",
+            "2 cups mixed vegetables (bell peppers, broccoli)",
             "200g firm tofu",
             "3 tbsp soy sauce",
             "2 cloves garlic",
@@ -50,7 +49,7 @@
         "recipe_image": "https://i.ibb.co/StmqbpL/Chicken-Meatballswith-Polentaand-Marinara-12.jpg",
         "recipe_id": 4,
         "recipe_name": "Chicken Parmesan",
-        "short_description": "A comforting Italian-American dish featuring breaded chicken breasts topped with marinara sauce and melted cheese.",
+        "short_description": "A comforting Italian-American dish featuring breaded chicken breasts topped with marinara sauce.",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
             "1 cup breadcrumbs",
@@ -82,10 +81,10 @@
         "recipe_image": "https://i.ibb.co/vd7kV56/curried-cauliflower-quinoa-salad-10.jpg",
         "recipe_id": 6,
         "recipe_name": "Quinoa Salad ",
-        "short_description": "A nutritious and filling salad featuring quinoa, roasted vegetables, and a tangy vinaigrette.",
+        "short_description": "A nutritious and filling salad featuring quinoa, roasted vegetables.",
         "ingredients": [
             "1 cup quinoa",
-            "2 cups mixed vegetables (zucchini, bell peppers, cherry tomatoes)",
+            "2 cups mixed vegetables ",
             "2 tbsp olive oil",
             "2 tbsp balsamic vinegar",
             "1/4 cup crumbled feta cheese"

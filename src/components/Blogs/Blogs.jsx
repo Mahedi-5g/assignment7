@@ -13,7 +13,7 @@ const Blogs = ({handleAddToCount}) => {
     }, [])
 
     return (
-        <div className="w-2/3 grid grid-cols-2 p-4 gap-4">
+        <div className="w-3/5 grid grid-cols-2 p-4 gap-4">
             {
                 blogs.map(blog =>
                     <Blog

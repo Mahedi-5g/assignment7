@@ -10,11 +10,18 @@ import Count from './components/Count/Count'
 
 function App() {
   const [counts, setCounts] = useState([]);
+  const [coocking,setCooking] = useState([])
 
   const handleAddToCount = blog => {
     const newCounts = [...counts, blog];
     setCounts(newCounts);
   }
+
+  const handlePreparing = data =>{
+    console.log('find data',data);
+
+  }
+
   return (
     <>
       <Navbar></Navbar>
@@ -22,13 +29,11 @@ function App() {
       <Title></Title>
       <div className='flex'>
         <Blogs handleAddToCount={handleAddToCount}></Blogs>
-        <div className='border-2 rounded-xl p-4 w-1/3'>
-            <Counts counts={counts}></Counts>
-            <Count ></Count>
+        <div className='border-2 rounded-xl p-4 w-2/5 my-4'>
+          <Counts counts={counts}></Counts>
+          {/* <Count handlePreparing={handlePreparing}></Count> */}
         </div>
       </div>
-
-
     </>
   )
 }
