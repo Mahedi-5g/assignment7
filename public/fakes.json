@@ -2,7 +2,7 @@
     {
         "recipe_image": "https://i.ibb.co/CWVxnBN/Blackened-Salmon-5.jpg",
         "recipe_id": 1,
-        "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+        "recipe_name": "Grilled Salmon",
         "short_description": "A delicious and healthy seafood dish perfect for dinner parties or special occasions.",
         "ingredients": [
             "4 salmon fillets",
@@ -81,7 +81,7 @@
     {
         "recipe_image": "https://i.ibb.co/vd7kV56/curried-cauliflower-quinoa-salad-10.jpg",
         "recipe_id": 6,
-        "recipe_name": "Quinoa Salad with Roasted Vegetables",
+        "recipe_name": "Quinoa Salad ",
         "short_description": "A nutritious and filling salad featuring quinoa, roasted vegetables, and a tangy vinaigrette.",
         "ingredients": [
             "1 cup quinoa",

@@ -9,12 +9,12 @@ import Navbar from './components/Navbar/Navbar'
 import Count from './components/Count/Count'
 
 function App() {
-const [counts,setCounts] = useState([]);
+  const [counts, setCounts] = useState([]);
 
-const handleAddToCount = blog =>{
-  const newCounts = [...counts,blog];
-  setCounts(newCounts);
-}
+  const handleAddToCount = blog => {
+    const newCounts = [...counts, blog];
+    setCounts(newCounts);
+  }
   return (
     <>
       <Navbar></Navbar>
@@ -22,12 +22,12 @@ const handleAddToCount = blog =>{
       <Title></Title>
       <div className='flex'>
         <Blogs handleAddToCount={handleAddToCount}></Blogs>
-        <div>
-        <Counts counts={counts}></Counts>
-        <Count></Count>
+        <div className='border-2 rounded-xl p-4 w-1/3'>
+            <Counts counts={counts}></Counts>
+            <Count ></Count>
         </div>
       </div>
-        
+
 
     </>
   )
