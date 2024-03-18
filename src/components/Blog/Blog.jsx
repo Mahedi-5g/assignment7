@@ -11,9 +11,9 @@ const Blog = ({ blog, handleAddToCount }) => {
         if (!selected) {
             handleAddToCount(blog);
             setSelected(true);
-            toast('item add in cook list'); // Mark the recipe as selected
+
         } else {
-            alert("You have already selected this recipe.");
+            toast('item already added'); 
         }
     };
     return (
