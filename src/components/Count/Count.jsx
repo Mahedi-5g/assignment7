@@ -11,7 +11,7 @@ const Count = ({ count, handlePreparing, indx }) => {
                 <td>{recipe_name}</td>
                 <td>{preparing_time}</td>
                 <td>{calories}</td>
-                <button onClick={handlePreparing} className='btn btn-success mt-4 text-white'>Preparing</button>
+                <button onClick={()=>handlePreparing(count)} className='btn btn-success mt-2 mr-2 text-white'>Preparing</button>
             </tr>
         </tbody>
     );

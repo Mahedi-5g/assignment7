@@ -1,7 +1,7 @@
 const Banner = () => {
     return (
         <div className="mt-7 mb-12">
-            <div className="hero min-h-screen" style={{  backgroundImage: 'url(https://i.ibb.co/mTVp82m/Rectangle-1.jpg)' }}>
+            <div className="hero min-h-screen rounded-3xl" style={{  backgroundImage: 'url(https://i.ibb.co/mTVp82m/Rectangle-1.jpg)' }}>
                 <div className=" "></div>
                 <div className="hero-content text-center text-neutral-content">
                     <div className="max-w-md">

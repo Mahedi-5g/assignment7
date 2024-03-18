@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import Count from '../Count/Count';
 
-const Counts = ({counts}) => {
+const Counts = ({counts,handlePreparing}) => {
     return (
        <div>
          <div className="">
@@ -18,7 +18,7 @@ const Counts = ({counts}) => {
                         </tr>
                     </thead>
             {
-                counts.map((count,indx)=><Count indx={indx+1} key={count.id} count={count}></Count> )
+                counts.map((count,indx)=><Count indx={indx+1} key={indx} handlePreparing={handlePreparing} count={count}></Count> )
             }
             </table>
         </div>
@@ -31,7 +31,9 @@ const Counts = ({counts}) => {
     );
 };
 Counts.propTypes ={
-    counts:PropTypes.array
+    counts:PropTypes.array,
+    handlePreparing:PropTypes.object.func
 }
+
 
 export default Counts;

@@ -17,7 +17,7 @@ const Blog = ({ blog, handleAddToCount }) => {
         }
     };
     return (
-        <div className='border-2 p-5 rounded-xl'>
+        <div className='border-2 p-5 rounded-xl bg-orange-100'>
             <div className=' '><img className='w-full h-48 rounded-xl mb-4' src={recipe_image} alt={`${recipe_name}`} /></div>
             <h2 className="text-xl font-semibold mb-3">{recipe_name}</h2>
             <p className='text-lg font-normal text-slate-600 mb-3'>{short_description}</p>
